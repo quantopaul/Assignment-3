@@ -1,6 +1,6 @@
 # Assignment-3
 # Task 1:
-I used both recursion loop and "for" keyword to solve this task. In which "n" is the common variable for the user to input a number. Both of the ways, 
+I used both recursion loop and "for" keyword to solve this task. In which "n" is the common variable for the user to input a number. Both ways, 
 would obviously return the same output
 
 Output:
